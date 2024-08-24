@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = "https://t.me/thanos_pro"
-SUPPORT_GROUP = "https://t.me/thanosprosss"
+SUPPORT_CHANNEL = "https://t.me/indiancybercriminal"
+SUPPORT_GROUP = "https://t.me/iccmainchatt"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = "STRING_SESSION"
+STRING1 = "BQG00fEAMgISUPu4pIc0RhE89kuLMEuqU19W7lmE3aYTXCYClvL53fQdfc8Ndb0u-S0lBG5XDqQCVkhwL5tfZmxUwkAQ4J3IiOezkgJMqv2-Mt-CGM_-OGPgYdD9lIH7AK_oeLI-eGBMFizgzM1-3tv2IU80zeH-GVInQDbLbopzt-kkNpRkVbpDdNX5z91VelFrCjJaDQGzmPiz0IPCcXboeHXRVcAVMOi0XOPzFgIdpmfNZN943ZKy1gb3GQ2ztfU9_jx7aBNA72sMytFPKhB3ldaMwADj8cfY_ozcO228kXCZqwvJx_qrB_TxQ3iyEy5xsj8fCCSAZz5qxvb93ZlEmpTiTQAAAAG_Ae_ZAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -77,9 +77,9 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+START_IMG_URL = "https://graph.org/file/7a792580bfb6c9d82211e.jpg"
 
-PING_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+PING_IMG_URL = "https://graph.org/file/7a792580bfb6c9d82211e.jpg"
 
 PLAYLIST_IMG_URL = "https://graph.org/file/763a841a2ad5cbb1e2fc5.jpg"
 STATS_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
